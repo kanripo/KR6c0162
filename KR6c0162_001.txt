@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:46:19.293028
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 15:57
 #+TITLE: 般若心經提綱
 #+PROPERTY: CBETA_ID X26n0543
 #+PROPERTY: ID KR6c0162
 #+PROPERTY: SOURCE 卍 Xuzangjing Vol. 26, No. 543
 #+PROPERTY: VOL 26
 #+PROPERTY: BASEEDITION X
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6c0162_X_000-0830b>¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6c0162_X_001-0830b> ¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
-No.543¶
-
- 心經提綱¶
+No. 543¶
+心經提綱¶
 明　李卓吾　撰¶
 
 心經者。佛說心之徑要也。心本無有。而世人妄以為¶
